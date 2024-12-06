@@ -5,6 +5,7 @@ export default function App() {
   return (
     <SafeAreaView>
       <View style={{ padding: 10 }}>
+        <Text style={styles.header}>My Bio</Text>
         <Text style={styles.header}>Minh Long Vu</Text>
         <View>
           <Text style={styles.head1}>Personal info</Text>
